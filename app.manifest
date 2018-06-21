@@ -1,6 +1,6 @@
 {
     "namespace": "com.demo.x",
-    "git": "",
+    "git": "git@github.com:zucatti/com.demo.x.git",
     "title": "my new project",
     "description": "package description goes here",
     "platform": "webapp",
